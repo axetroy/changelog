@@ -71,12 +71,16 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/russross/blackfriday v1.5.3-0.20190124082335-a477dd164691 h1:auJkuUc4uOuZNoH9jGLvqVaDLiuCOh/LY+Qw5NBFo4I=
 github.com/russross/blackfriday v1.5.3-0.20190124082335-a477dd164691/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
+github.com/russross/blackfriday v1.6.0 h1:KqfZb0pUVN2lYqZUYRddxF4OR8ZMURnJIG5Y3VRLtww=
+github.com/russross/blackfriday v1.6.0/go.mod h1:ti0ldHuxg49ri4ksnFxlkCfN+hvslNlmVHqNRXXJNAY=
 github.com/sergi/go-diff v1.1.0 h1:we8PVUC3FE2uYfodKH/nBHMSetSfHDR6scGdBi+erh0=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
 github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636 h1:aSISeOcal5irEhJd1M+IrApc0PdcN7e7Aj4yuEnOrfQ=
 github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636/go.mod h1:TDJrrUr11Vxrven61rcy3hJMUqaf/CLWYhHNPmT14Lk=
 github.com/shurcooL/markdownfmt v0.0.0-20191117054414-21fe95c248e9 h1:Kby6B97HHCn9SucnlabXvz5DJdy+aKPhFGNM9G98L2E=
 github.com/shurcooL/markdownfmt v0.0.0-20191117054414-21fe95c248e9/go.mod h1:wwC6+1FOCAA/hK8+pmBir20vneHxr8Nh0OGQNkyo2a8=
+github.com/shurcooL/markdownfmt v0.0.0-20210117162146-75134924a9fd h1:bpS1EjAotX7LeZwlx4tSRd6W3D639QXr6Y3+uhDHKoU=
+github.com/shurcooL/markdownfmt v0.0.0-20210117162146-75134924a9fd/go.mod h1:Y3QM23ahLei1QaMBScz4YZbWktsBlf2A2DT2Yw2Ts68=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
