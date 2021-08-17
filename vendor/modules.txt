@@ -104,14 +104,14 @@ github.com/mitchellh/go-homedir
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
-# github.com/russross/blackfriday v1.5.3-0.20190124082335-a477dd164691
+# github.com/russross/blackfriday v1.6.0
 github.com/russross/blackfriday
 # github.com/sergi/go-diff v1.1.0
 github.com/sergi/go-diff/diffmatchpatch
 # github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636
 ## explicit
 github.com/shurcooL/go/indentwriter
-# github.com/shurcooL/markdownfmt v0.0.0-20191117054414-21fe95c248e9
+# github.com/shurcooL/markdownfmt v0.0.0-20210117162146-75134924a9fd
 ## explicit
 github.com/shurcooL/markdownfmt/markdown
 # github.com/stretchr/testify v1.7.0
