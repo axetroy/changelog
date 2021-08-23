@@ -13,7 +13,7 @@
     "vue": "3.1.4"
   },
   "devDependencies": {
-    "@types/marked": "2.0.4",
+    "@types/marked": "2.0.5",
     "@types/node": "14.14.44",
     "@vitejs/plugin-vue": "1.4.0",
     "@vue/compiler-sfc": "3.1.4",
