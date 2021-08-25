@@ -9,11 +9,11 @@
   "dependencies": {
     "ant-design-vue": "2.2.6",
     "indexof": "0.0.1",
-    "marked": "3.0.0",
+    "marked": "3.0.2",
     "vue": "3.1.4"
   },
   "devDependencies": {
-    "@types/marked": "2.0.4",
+    "@types/marked": "3.0.0",
     "@types/node": "14.14.44",
     "@vitejs/plugin-vue": "1.4.0",
     "@vue/compiler-sfc": "3.1.4",
