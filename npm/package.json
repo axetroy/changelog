@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/ffi-napi": "4.0.5",
     "jest": "27.5.1",
-    "typescript": "5.0.4"
+    "typescript": "5.6.2"
   },
   "dependencies": {
     "ffi-napi": "4.0.3"
